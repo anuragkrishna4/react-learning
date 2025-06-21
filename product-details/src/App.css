@@ -1,0 +1,14 @@
+.product-detail {
+  padding: 20px;
+  font-family: Arial;
+}
+
+.breadcrumb {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+}

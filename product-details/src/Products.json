@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone",
+    "category": "Electronics",
+    "price": 999,
+    "stock": "In Stock",
+    "description": "Latest Apple iPhone model",
+    "image": "https://inventstore.in/wp-content/uploads/2024/07/63.webp"
+  },
+  {
+    "id": 2,
+    "name": "Shoes",
+    "category": "Fashion",
+    "price": 120,
+    "stock": "Limited Stock",
+    "description": "Comfortable running shoes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Air_Jordan_1_Banned.jpg/960px-Air_Jordan_1_Banned.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Book",
+    "category": "Books",
+    "price": 20,
+    "stock": "In Stock",
+    "description": "A fascinating novel",
+    "image": "https://i.ytimg.com/vi/cBsKTRXDY_E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD71XwjJPGLaQMxLWBsdTkWPB9ijg"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 1500,
+    "stock": "In Stock",
+    "description": "High-performance laptop for professionals",
+    "image": "https://m.media-amazon.com/images/I/510uTHyDqGL.jpg"
+  }
+
+]
